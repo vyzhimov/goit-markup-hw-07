@@ -1,0 +1,21 @@
+.page-header {
+  border-bottom: 1px solid $header-border-color;
+}
+
+.page-header__container {
+  display: flex;
+  align-items: center;
+}
+
+.page-header__navigation {
+  display: flex;
+  align-items: center;
+}
+
+.page-header__logo {
+  margin-right: 93px;
+}
+
+.page-header__site-contacts {
+  margin-left: auto;
+}

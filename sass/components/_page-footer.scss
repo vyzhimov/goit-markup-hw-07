@@ -1,0 +1,33 @@
+.page-footer {
+  padding: 60px 0;
+  background-color: $background-footer-color;
+}
+
+.page-footer__container {
+  display: flex;
+  align-items: baseline;
+}
+
+.page-footer__adress {
+  flex-shrink: 0;
+}
+
+.page-footer__social {
+  margin-left: 93px;
+  flex-shrink: 0;
+}
+
+.page-footer__subscribe {
+  margin-left: 93px;
+  width: 100%;
+}
+
+.page-footer__text {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: $white-text-color;
+}
