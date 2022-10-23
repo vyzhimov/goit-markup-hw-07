@@ -38,13 +38,12 @@
 
 .portfolio__sublist {
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
   gap: 30px;
 }
 
 .portfolio__sublist-item {
-  flex-basis: calc(100% / 3 - 30px);
+  flex-basis: calc((100% - 60px) / 3);
 }
 
 .portfolio-thumb {
