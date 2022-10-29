@@ -33,7 +33,6 @@ body {
   width: 1200px;
   padding: 0 15px;
   margin: 0 auto;
-  /* outline: 1px solid red; */
 }
 
 .visually-hidden {
@@ -60,6 +59,10 @@ body {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: #2196f3;
+}
+
+.page-header__logo {
+  margin-right: 93px;
 }
 
 .page-footer__logo {
@@ -185,10 +188,6 @@ body {
 .page-header__navigation {
   display: flex;
   align-items: center;
-}
-
-.page-header__logo {
-  margin-right: 93px;
 }
 
 .page-header__site-contacts {
