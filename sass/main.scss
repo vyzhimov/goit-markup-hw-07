@@ -2,12 +2,12 @@
 @import "./utils/base";
 @import "./components/container";
 @import "./utils/visually-hidden";
-@import "./components/logo";
-@import "./components/btn";
-@import "./components/btn-close";
-@import "./components/title";
-@import "./components/social";
-@import "./components/page-header";
+@import "./layouts/logo";
+@import "./layouts/btn";
+@import "./layouts/btn-close";
+@import "./layouts/title";
+@import "./layouts/social";
+@import "./layouts/page-header";
 @import "./components/site-nav";
 @import "./components/site-contacts";
 @import "./components/section-hero";
@@ -15,7 +15,7 @@
 @import "./components/section-services";
 @import "./components/section-team";
 @import "./components/section-clients";
-@import "./components/page-footer";
+@import "./layouts/page-footer";
 @import "./components/site-address";
 @import "./components/form-subsribe";
 @import "./components/modal";
